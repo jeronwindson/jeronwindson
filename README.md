@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jéron Windson  👋
 
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estudando Javascript / React
+- 🔭 Desenvolvedor
+- 🌱 Estudando Javascript / React / React Native
 - 📫 Contate-me no email: jeron_windson@hotmail.com
 
 <div style="display: inline_block"><br>
